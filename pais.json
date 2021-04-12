@@ -1,0 +1,1202 @@
+﻿[
+    {
+        "clave": "AD",
+        "valor": "Andorra",
+        "docType": "pais"
+    },
+    {
+        "clave": "AE",
+        "valor": "Emiratos Árabes Unidos",
+        "docType": "pais"
+    },
+    {
+        "clave": "AF",
+        "valor": "Afganistán",
+        "docType": "pais"
+    },
+    {
+        "clave": "AG",
+        "valor": "Antigua y Barbuda",
+        "docType": "pais"
+    },
+    {
+        "clave": "AI",
+        "valor": "Anguila",
+        "docType": "pais"
+    },
+    {
+        "clave": "AL",
+        "valor": "Albania",
+        "docType": "pais"
+    },
+    {
+        "clave": "AM",
+        "valor": "Armenia",
+        "docType": "pais"
+    },
+    {
+        "clave": "AN",
+        "valor": "Antillas Neerlandesas",
+        "docType": "pais"
+    },
+    {
+        "clave": "AO",
+        "valor": "Angola",
+        "docType": "pais"
+    },
+    {
+        "clave": "AQ",
+        "valor": "Antártida",
+        "docType": "pais"
+    },
+    {
+        "clave": "AR",
+        "valor": "Argentina",
+        "docType": "pais"
+    },
+    {
+        "clave": "AS",
+        "valor": "Samoa Americana",
+        "docType": "pais"
+    },
+    {
+        "clave": "AT",
+        "valor": "Austria",
+        "docType": "pais"
+    },
+    {
+        "clave": "AU",
+        "valor": "Australia",
+        "docType": "pais"
+    },
+    {
+        "clave": "AW",
+        "valor": "Aruba",
+        "docType": "pais"
+    },
+    {
+        "clave": "AX",
+        "valor": "Islas Áland",
+        "docType": "pais"
+    },
+    {
+        "clave": "AZ",
+        "valor": "Azerbaiyán",
+        "docType": "pais"
+    },
+    {
+        "clave": "BA",
+        "valor": "Bosnia y Herzegovina",
+        "docType": "pais"
+    },
+    {
+        "clave": "BB",
+        "valor": "Barbados",
+        "docType": "pais"
+    },
+    {
+        "clave": "BD",
+        "valor": "Bangladesh",
+        "docType": "pais"
+    },
+    {
+        "clave": "BE",
+        "valor": "Bélgica",
+        "docType": "pais"
+    },
+    {
+        "clave": "BF",
+        "valor": "Burkina Faso",
+        "docType": "pais"
+    },
+    {
+        "clave": "BG",
+        "valor": "Bulgaria",
+        "docType": "pais"
+    },
+    {
+        "clave": "BH",
+        "valor": "Bahréin",
+        "docType": "pais"
+    },
+    {
+        "clave": "BI",
+        "valor": "Burundi",
+        "docType": "pais"
+    },
+    {
+        "clave": "BJ",
+        "valor": "Benin",
+        "docType": "pais"
+    },
+    {
+        "clave": "BL",
+        "valor": "San Bartolomé",
+        "docType": "pais"
+    },
+    {
+        "clave": "BM",
+        "valor": "Bermudas",
+        "docType": "pais"
+    },
+    {
+        "clave": "BN",
+        "valor": "Brunéi",
+        "docType": "pais"
+    },
+    {
+        "clave": "BO",
+        "valor": "Bolivia",
+        "docType": "pais"
+    },
+    {
+        "clave": "BR",
+        "valor": "Brasil",
+        "docType": "pais"
+    },
+    {
+        "clave": "BS",
+        "valor": "Bahamas",
+        "docType": "pais"
+    },
+    {
+        "clave": "BT",
+        "valor": "Bhután",
+        "docType": "pais"
+    },
+    {
+        "clave": "BV",
+        "valor": "Isla Bouvet",
+        "docType": "pais"
+    },
+    {
+        "clave": "BW",
+        "valor": "Botsuana",
+        "docType": "pais"
+    },
+    {
+        "clave": "BY",
+        "valor": "Belarús",
+        "docType": "pais"
+    },
+    {
+        "clave": "BZ",
+        "valor": "Belice",
+        "docType": "pais"
+    },
+    {
+        "clave": "CA",
+        "valor": "Canadá",
+        "docType": "pais"
+    },
+    {
+        "clave": "CC",
+        "valor": "Islas Cocos",
+        "docType": "pais"
+    },
+    {
+        "clave": "CF",
+        "valor": "República Centro-Africana",
+        "docType": "pais"
+    },
+    {
+        "clave": "CG",
+        "valor": "Congo",
+        "docType": "pais"
+    },
+    {
+        "clave": "CH",
+        "valor": "Suiza",
+        "docType": "pais"
+    },
+    {
+        "clave": "CI",
+        "valor": "Costa de Marfil",
+        "docType": "pais"
+    },
+    {
+        "clave": "CK",
+        "valor": "Islas Cook",
+        "docType": "pais"
+    },
+    {
+        "clave": "CL",
+        "valor": "Chile",
+        "docType": "pais"
+    },
+    {
+        "clave": "CM",
+        "valor": "Camerún",
+        "docType": "pais"
+    },
+    {
+        "clave": "CN",
+        "valor": "China",
+        "docType": "pais"
+    },
+    {
+        "clave": "CO",
+        "valor": "Colombia",
+        "docType": "pais"
+    },
+    {
+        "clave": "CR",
+        "valor": "Costa Rica",
+        "docType": "pais"
+    },
+    {
+        "clave": "CU",
+        "valor": "Cuba",
+        "docType": "pais"
+    },
+    {
+        "clave": "CV",
+        "valor": "Cabo Verde",
+        "docType": "pais"
+    },
+    {
+        "clave": "CX",
+        "valor": "Islas Christmas",
+        "docType": "pais"
+    },
+    {
+        "clave": "CY",
+        "valor": "Chipre",
+        "docType": "pais"
+    },
+    {
+        "clave": "CZ",
+        "valor": "República Checa",
+        "docType": "pais"
+    },
+    {
+        "clave": "DE",
+        "valor": "Alemania",
+        "docType": "pais"
+    },
+    {
+        "clave": "DJ",
+        "valor": "Yibuti",
+        "docType": "pais"
+    },
+    {
+        "clave": "DK",
+        "valor": "Dinamarca",
+        "docType": "pais"
+    },
+    {
+        "clave": "DM",
+        "valor": "Domínica",
+        "docType": "pais"
+    },
+    {
+        "clave": "DO",
+        "valor": "República Dominicana",
+        "docType": "pais"
+    },
+    {
+        "clave": "DZ",
+        "valor": "Argel",
+        "docType": "pais"
+    },
+    {
+        "clave": "EC",
+        "valor": "Ecuador",
+        "docType": "pais"
+    },
+    {
+        "clave": "EE",
+        "valor": "Estonia",
+        "docType": "pais"
+    },
+    {
+        "clave": "EG",
+        "valor": "Egipto",
+        "docType": "pais"
+    },
+    {
+        "clave": "EH",
+        "valor": "Sahara Occidental",
+        "docType": "pais"
+    },
+    {
+        "clave": "ER",
+        "valor": "Eritrea",
+        "docType": "pais"
+    },
+    {
+        "clave": "ES",
+        "valor": "España",
+        "docType": "pais"
+    },
+    {
+        "clave": "ET",
+        "valor": "Etiopía",
+        "docType": "pais"
+    },
+    {
+        "clave": "FI",
+        "valor": "Finlandia",
+        "docType": "pais"
+    },
+    {
+        "clave": "FJ",
+        "valor": "Fiji",
+        "docType": "pais"
+    },
+    {
+        "clave": "FK",
+        "valor": "Islas Malvinas",
+        "docType": "pais"
+    },
+    {
+        "clave": "FM",
+        "valor": "Micronesia",
+        "docType": "pais"
+    },
+    {
+        "clave": "FO",
+        "valor": "Islas Faroe",
+        "docType": "pais"
+    },
+    {
+        "clave": "FR",
+        "valor": "Francia",
+        "docType": "pais"
+    },
+    {
+        "clave": "GA",
+        "valor": "Gabón",
+        "docType": "pais"
+    },
+    {
+        "clave": "GB",
+        "valor": "Reino Unido",
+        "docType": "pais"
+    },
+    {
+        "clave": "GD",
+        "valor": "Granada",
+        "docType": "pais"
+    },
+    {
+        "clave": "GE",
+        "valor": "Georgia",
+        "docType": "pais"
+    },
+    {
+        "clave": "GF",
+        "valor": "Guayana Francesa",
+        "docType": "pais"
+    },
+    {
+        "clave": "GG",
+        "valor": "Guernsey",
+        "docType": "pais"
+    },
+    {
+        "clave": "GH",
+        "valor": "Ghana",
+        "docType": "pais"
+    },
+    {
+        "clave": "GI",
+        "valor": "Gibraltar",
+        "docType": "pais"
+    },
+    {
+        "clave": "GL",
+        "valor": "Groenlandia",
+        "docType": "pais"
+    },
+    {
+        "clave": "GM",
+        "valor": "Gambia",
+        "docType": "pais"
+    },
+    {
+        "clave": "GN",
+        "valor": "Guinea",
+        "docType": "pais"
+    },
+    {
+        "clave": "GP",
+        "valor": "Guadalupe",
+        "docType": "pais"
+    },
+    {
+        "clave": "GQ",
+        "valor": "Guinea Ecuatorial",
+        "docType": "pais"
+    },
+    {
+        "clave": "GR",
+        "valor": "Grecia",
+        "docType": "pais"
+    },
+    {
+        "clave": "GS",
+        "valor": "Georgia del Sur e Islas Sandwich del Sur",
+        "docType": "pais"
+    },
+    {
+        "clave": "GT",
+        "valor": "Guatemala",
+        "docType": "pais"
+    },
+    {
+        "clave": "GU",
+        "valor": "Guam",
+        "docType": "pais"
+    },
+    {
+        "clave": "GW",
+        "valor": "Guinea-Bissau",
+        "docType": "pais"
+    },
+    {
+        "clave": "GY",
+        "valor": "Guayana",
+        "docType": "pais"
+    },
+    {
+        "clave": "HK",
+        "valor": "Hong Kong",
+        "docType": "pais"
+    },
+    {
+        "clave": "HM",
+        "valor": "Islas Heard y McDonald",
+        "docType": "pais"
+    },
+    {
+        "clave": "HN",
+        "valor": "Honduras",
+        "docType": "pais"
+    },
+    {
+        "clave": "HR",
+        "valor": "Croacia",
+        "docType": "pais"
+    },
+    {
+        "clave": "HT",
+        "valor": "Haití",
+        "docType": "pais"
+    },
+    {
+        "clave": "HU",
+        "valor": "Hungría",
+        "docType": "pais"
+    },
+    {
+        "clave": "ID",
+        "valor": "Indonesia",
+        "docType": "pais"
+    },
+    {
+        "clave": "IE",
+        "valor": "Irlanda",
+        "docType": "pais"
+    },
+    {
+        "clave": "IL",
+        "valor": "Israel",
+        "docType": "pais"
+    },
+    {
+        "clave": "IM",
+        "valor": "Isla de Man",
+        "docType": "pais"
+    },
+    {
+        "clave": "IN",
+        "valor": "India",
+        "docType": "pais"
+    },
+    {
+        "clave": "IO",
+        "valor": "Territorio Británico del Océano Índico",
+        "docType": "pais"
+    },
+    {
+        "clave": "IQ",
+        "valor": "Irak",
+        "docType": "pais"
+    },
+    {
+        "clave": "IR",
+        "valor": "Irán",
+        "docType": "pais"
+    },
+    {
+        "clave": "IS",
+        "valor": "Islandia",
+        "docType": "pais"
+    },
+    {
+        "clave": "IT",
+        "valor": "Italia",
+        "docType": "pais"
+    },
+    {
+        "clave": "JE",
+        "valor": "Jersey",
+        "docType": "pais"
+    },
+    {
+        "clave": "JM",
+        "valor": "Jamaica",
+        "docType": "pais"
+    },
+    {
+        "clave": "JO",
+        "valor": "Jordania",
+        "docType": "pais"
+    },
+    {
+        "clave": "JP",
+        "valor": "Japón",
+        "docType": "pais"
+    },
+    {
+        "clave": "KE",
+        "valor": "Kenia",
+        "docType": "pais"
+    },
+    {
+        "clave": "KG",
+        "valor": "Kirguistán",
+        "docType": "pais"
+    },
+    {
+        "clave": "KH",
+        "valor": "Camboya",
+        "docType": "pais"
+    },
+    {
+        "clave": "KI",
+        "valor": "Kiribati",
+        "docType": "pais"
+    },
+    {
+        "clave": "KM",
+        "valor": "Comoros",
+        "docType": "pais"
+    },
+    {
+        "clave": "KN",
+        "valor": "San Cristóbal y Nieves",
+        "docType": "pais"
+    },
+    {
+        "clave": "KP",
+        "valor": "Corea del Norte",
+        "docType": "pais"
+    },
+    {
+        "clave": "KR",
+        "valor": "Corea del Sur",
+        "docType": "pais"
+    },
+    {
+        "clave": "KW",
+        "valor": "Kuwait",
+        "docType": "pais"
+    },
+    {
+        "clave": "KY",
+        "valor": "Islas Caimán",
+        "docType": "pais"
+    },
+    {
+        "clave": "KZ",
+        "valor": "Kazajstán",
+        "docType": "pais"
+    },
+    {
+        "clave": "LA",
+        "valor": "Laos",
+        "docType": "pais"
+    },
+    {
+        "clave": "LB",
+        "valor": "Líbano",
+        "docType": "pais"
+    },
+    {
+        "clave": "LC",
+        "valor": "Santa Lucía",
+        "docType": "pais"
+    },
+    {
+        "clave": "LI",
+        "valor": "Liechtenstein",
+        "docType": "pais"
+    },
+    {
+        "clave": "LK",
+        "valor": "Sri Lanka",
+        "docType": "pais"
+    },
+    {
+        "clave": "LR",
+        "valor": "Liberia",
+        "docType": "pais"
+    },
+    {
+        "clave": "LS",
+        "valor": "Lesotho",
+        "docType": "pais"
+    },
+    {
+        "clave": "LT",
+        "valor": "Lituania",
+        "docType": "pais"
+    },
+    {
+        "clave": "LU",
+        "valor": "Luxemburgo",
+        "docType": "pais"
+    },
+    {
+        "clave": "LV",
+        "valor": "Letonia",
+        "docType": "pais"
+    },
+    {
+        "clave": "LY",
+        "valor": "Libia",
+        "docType": "pais"
+    },
+    {
+        "clave": "MA",
+        "valor": "Marruecos",
+        "docType": "pais"
+    },
+    {
+        "clave": "MC",
+        "valor": "Mónaco",
+        "docType": "pais"
+    },
+    {
+        "clave": "MD",
+        "valor": "Moldova",
+        "docType": "pais"
+    },
+    {
+        "clave": "ME",
+        "valor": "Montenegro",
+        "docType": "pais"
+    },
+    {
+        "clave": "MG",
+        "valor": "Madagascar",
+        "docType": "pais"
+    },
+    {
+        "clave": "MH",
+        "valor": "Islas Marshall",
+        "docType": "pais"
+    },
+    {
+        "clave": "MK",
+        "valor": "Macedonia",
+        "docType": "pais"
+    },
+    {
+        "clave": "ML",
+        "valor": "Mali",
+        "docType": "pais"
+    },
+    {
+        "clave": "MM",
+        "valor": "Myanmar",
+        "docType": "pais"
+    },
+    {
+        "clave": "MN",
+        "valor": "Mongolia",
+        "docType": "pais"
+    },
+    {
+        "clave": "MO",
+        "valor": "Macao",
+        "docType": "pais"
+    },
+    {
+        "clave": "MQ",
+        "valor": "Martinica",
+        "docType": "pais"
+    },
+    {
+        "clave": "MR",
+        "valor": "Mauritania",
+        "docType": "pais"
+    },
+    {
+        "clave": "MS",
+        "valor": "Montserrat",
+        "docType": "pais"
+    },
+    {
+        "clave": "MT",
+        "valor": "Malta",
+        "docType": "pais"
+    },
+    {
+        "clave": "MU",
+        "valor": "Mauricio",
+        "docType": "pais"
+    },
+    {
+        "clave": "MV",
+        "valor": "Maldivas",
+        "docType": "pais"
+    },
+    {
+        "clave": "MW",
+        "valor": "Malawi",
+        "docType": "pais"
+    },
+    {
+        "clave": "MX",
+        "valor": "México",
+        "docType": "pais"
+    },
+    {
+        "clave": "MY",
+        "valor": "Malasia",
+        "docType": "pais"
+    },
+    {
+        "clave": "MZ",
+        "valor": "Mozambique",
+        "docType": "pais"
+    },
+    {
+        "clave": "NA",
+        "valor": "Namibia",
+        "docType": "pais"
+    },
+    {
+        "clave": "NC",
+        "valor": "Nueva Caledonia",
+        "docType": "pais"
+    },
+    {
+        "clave": "NE",
+        "valor": "Níger",
+        "docType": "pais"
+    },
+    {
+        "clave": "NF",
+        "valor": "Islas Norkfolk",
+        "docType": "pais"
+    },
+    {
+        "clave": "NG",
+        "valor": "Nigeria",
+        "docType": "pais"
+    },
+    {
+        "clave": "NI",
+        "valor": "Nicaragua",
+        "docType": "pais"
+    },
+    {
+        "clave": "NL",
+        "valor": "Países Bajos",
+        "docType": "pais"
+    },
+    {
+        "clave": "NO",
+        "valor": "Noruega",
+        "docType": "pais"
+    },
+    {
+        "clave": "NP",
+        "valor": "Nepal",
+        "docType": "pais"
+    },
+    {
+        "clave": "NR",
+        "valor": "Nauru",
+        "docType": "pais"
+    },
+    {
+        "clave": "NU",
+        "valor": "Niue",
+        "docType": "pais"
+    },
+    {
+        "clave": "NZ",
+        "valor": "Nueva Zelanda",
+        "docType": "pais"
+    },
+    {
+        "clave": "OM",
+        "valor": "Omán",
+        "docType": "pais"
+    },
+    {
+        "clave": "PA",
+        "valor": "Panamá",
+        "docType": "pais"
+    },
+    {
+        "clave": "PE",
+        "valor": "Perú",
+        "docType": "pais"
+    },
+    {
+        "clave": "PF",
+        "valor": "Polinesia Francesa",
+        "docType": "pais"
+    },
+    {
+        "clave": "PG",
+        "valor": "Papúa Nueva Guinea",
+        "docType": "pais"
+    },
+    {
+        "clave": "PH",
+        "valor": "Filipinas",
+        "docType": "pais"
+    },
+    {
+        "clave": "PK",
+        "valor": "Pakistán",
+        "docType": "pais"
+    },
+    {
+        "clave": "PL",
+        "valor": "Polonia",
+        "docType": "pais"
+    },
+    {
+        "clave": "PM",
+        "valor": "San Pedro y Miquelón",
+        "docType": "pais"
+    },
+    {
+        "clave": "PN",
+        "valor": "Islas Pitcairn",
+        "docType": "pais"
+    },
+    {
+        "clave": "PR",
+        "valor": "Puerto Rico",
+        "docType": "pais"
+    },
+    {
+        "clave": "PS",
+        "valor": "Palestina",
+        "docType": "pais"
+    },
+    {
+        "clave": "PT",
+        "valor": "Portugal",
+        "docType": "pais"
+    },
+    {
+        "clave": "PW",
+        "valor": "Islas Palaos",
+        "docType": "pais"
+    },
+    {
+        "clave": "PY",
+        "valor": "Paraguay",
+        "docType": "pais"
+    },
+    {
+        "clave": "QA",
+        "valor": "Qatar",
+        "docType": "pais"
+    },
+    {
+        "clave": "RE",
+        "valor": "Reunión",
+        "docType": "pais"
+    },
+    {
+        "clave": "RO",
+        "valor": "Rumanía",
+        "docType": "pais"
+    },
+    {
+        "clave": "RS",
+        "valor": "Serbia y Montenegro",
+        "docType": "pais"
+    },
+    {
+        "clave": "RU",
+        "valor": "Rusia",
+        "docType": "pais"
+    },
+    {
+        "clave": "RW",
+        "valor": "Ruanda",
+        "docType": "pais"
+    },
+    {
+        "clave": "SA",
+        "valor": "Arabia Saudita",
+        "docType": "pais"
+    },
+    {
+        "clave": "SB",
+        "valor": "Islas Solomón",
+        "docType": "pais"
+    },
+    {
+        "clave": "SC",
+        "valor": "Seychelles",
+        "docType": "pais"
+    },
+    {
+        "clave": "SD",
+        "valor": "Sudán",
+        "docType": "pais"
+    },
+    {
+        "clave": "SE",
+        "valor": "Suecia",
+        "docType": "pais"
+    },
+    {
+        "clave": "SG",
+        "valor": "Singapur",
+        "docType": "pais"
+    },
+    {
+        "clave": "SH",
+        "valor": "Santa Elena",
+        "docType": "pais"
+    },
+    {
+        "clave": "SI",
+        "valor": "Eslovenia",
+        "docType": "pais"
+    },
+    {
+        "clave": "SJ",
+        "valor": "Islas Svalbard y Jan Mayen",
+        "docType": "pais"
+    },
+    {
+        "clave": "SK",
+        "valor": "Eslovaquia",
+        "docType": "pais"
+    },
+    {
+        "clave": "SL",
+        "valor": "Sierra Leona",
+        "docType": "pais"
+    },
+    {
+        "clave": "SM",
+        "valor": "San Marino",
+        "docType": "pais"
+    },
+    {
+        "clave": "SN",
+        "valor": "Senegal",
+        "docType": "pais"
+    },
+    {
+        "clave": "SO",
+        "valor": "Somalia",
+        "docType": "pais"
+    },
+    {
+        "clave": "SR",
+        "valor": "Surinam",
+        "docType": "pais"
+    },
+    {
+        "clave": "ST",
+        "valor": "Santo Tomé y Príncipe",
+        "docType": "pais"
+    },
+    {
+        "clave": "SV",
+        "valor": "El Salvador",
+        "docType": "pais"
+    },
+    {
+        "clave": "SY",
+        "valor": "Siria",
+        "docType": "pais"
+    },
+    {
+        "clave": "SZ",
+        "valor": "Suazilandia",
+        "docType": "pais"
+    },
+    {
+        "clave": "TC",
+        "valor": "Islas Turcas y Caicos",
+        "docType": "pais"
+    },
+    {
+        "clave": "TD",
+        "valor": "Chad",
+        "docType": "pais"
+    },
+    {
+        "clave": "TF",
+        "valor": "Territorios Australes Franceses",
+        "docType": "pais"
+    },
+    {
+        "clave": "TG",
+        "valor": "Togo",
+        "docType": "pais"
+    },
+    {
+        "clave": "TH",
+        "valor": "Tailandia",
+        "docType": "pais"
+    },
+    {
+        "clave": "TH",
+        "valor": "Tanzania",
+        "docType": "pais"
+    },
+    {
+        "clave": "TJ",
+        "valor": "Tayikistán",
+        "docType": "pais"
+    },
+    {
+        "clave": "TK",
+        "valor": "Tokelau",
+        "docType": "pais"
+    },
+    {
+        "clave": "TL",
+        "valor": "Timor-Leste",
+        "docType": "pais"
+    },
+    {
+        "clave": "TM",
+        "valor": "Turkmenistán",
+        "docType": "pais"
+    },
+    {
+        "clave": "TN",
+        "valor": "Túnez",
+        "docType": "pais"
+    },
+    {
+        "clave": "TO",
+        "valor": "Tonga",
+        "docType": "pais"
+    },
+    {
+        "clave": "TR",
+        "valor": "Turquía",
+        "docType": "pais"
+    },
+    {
+        "clave": "TT",
+        "valor": "Trinidad y Tobago",
+        "docType": "pais"
+    },
+    {
+        "clave": "TV",
+        "valor": "Tuvalu",
+        "docType": "pais"
+    },
+    {
+        "clave": "TW",
+        "valor": "Taiwán",
+        "docType": "pais"
+    },
+    {
+        "clave": "UA",
+        "valor": "Ucrania",
+        "docType": "pais"
+    },
+    {
+        "clave": "UG",
+        "valor": "Uganda",
+        "docType": "pais"
+    },
+    {
+        "clave": "US",
+        "valor": "Estados Unidos de América",
+        "docType": "pais"
+    },
+    {
+        "clave": "UY",
+        "valor": "Uruguay",
+        "docType": "pais"
+    },
+    {
+        "clave": "UZ",
+        "valor": "Uzbekistán",
+        "docType": "pais"
+    },
+    {
+        "clave": "VA",
+        "valor": "Ciudad del Vaticano",
+        "docType": "pais"
+    },
+    {
+        "clave": "VC",
+        "valor": "San Vicente y las Granadinas",
+        "docType": "pais"
+    },
+    {
+        "clave": "VE",
+        "valor": "Venezuela",
+        "docType": "pais"
+    },
+    {
+        "clave": "VG",
+        "valor": "Islas Vírgenes Británicas",
+        "docType": "pais"
+    },
+    {
+        "clave": "VI",
+        "valor": "Islas Vírgenes de los Estados Unidos de América",
+        "docType": "pais"
+    },
+    {
+        "clave": "VN",
+        "valor": "Vietnam",
+        "docType": "pais"
+    },
+    {
+        "clave": "VU",
+        "valor": "Vanuatu",
+        "docType": "pais"
+    },
+    {
+        "clave": "WF",
+        "valor": "Wallis y Futuna",
+        "docType": "pais"
+    },
+    {
+        "clave": "WS",
+        "valor": "Samoa",
+        "docType": "pais"
+    },
+    {
+        "clave": "YE",
+        "valor": "Yemen",
+        "docType": "pais"
+    },
+    {
+        "clave": "YT",
+        "valor": "Mayotte",
+        "docType": "pais"
+    },
+    {
+        "clave": "ZA",
+        "valor": "Sudáfrica",
+        "docType": "pais"
+    }
+]

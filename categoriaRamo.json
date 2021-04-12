@@ -1,0 +1,247 @@
+[
+    {
+        "clave": 1,
+        "valor": "PODER LEGISLATIVO",
+        "docType": "ramo"
+    },
+    {
+        "clave": 2,
+        "valor": "OFICINA DE LA PRESIDENCIA DE LA REPÚBLICA",
+        "docType": "ramo"
+    },
+    {
+        "clave": 3,
+        "valor": "PODER JUDICIAL",
+        "docType": "ramo"
+    },
+    {
+        "clave": 4,
+        "valor": "GOBERNACIÓN",
+        "docType": "ramo"
+    },
+    {
+        "clave": 5,
+        "valor": "RELACIONES EXTERIORES",
+        "docType": "ramo"
+    },
+    {
+        "clave": 6,
+        "valor": "HACIENDA Y CRÉDITO PÚBLICO",
+        "docType": "ramo"
+    },
+    {
+        "clave": 7,
+        "valor": "DEFENSA NACIONAL",
+        "docType": "ramo"
+    },
+    {
+        "clave": 8,
+        "valor": "AGRICULTURA, GANADERÍA, DESARROLLO RURAL, PESCA Y ALIMENTACIÓN",
+        "docType": "ramo"
+    },
+    {
+        "clave": 9,
+        "valor": "COMUNICACIONES Y TRANSPORTES",
+        "docType": "ramo"
+    },
+    {
+        "clave": 10,
+        "valor": "ECONOMÍA",
+        "docType": "ramo"
+    },
+    {
+        "clave": 11,
+        "valor": "EDUCACIÓN PÚBLICA",
+        "docType": "ramo"
+    },
+    {
+        "clave": 12,
+        "valor": "SALUD",
+        "docType": "ramo"
+    },
+    {
+        "clave": 13,
+        "valor": "MARINA",
+        "docType": "ramo"
+    },
+    {
+        "clave": 14,
+        "valor": "TRABAJO Y PREVISIÓN SOCIAL",
+        "docType": "ramo"
+    },
+    {
+        "clave": 15,
+        "valor": "DESARROLLO AGRARIO, TERRITORIAL Y URBANO",
+        "docType": "ramo"
+    },
+    {
+        "clave": 16,
+        "valor": "MEDIO AMBIENTE Y RECURSOS NATURALES",
+        "docType": "ramo"
+    },
+    {
+        "clave": 17,
+        "valor": "PROCURADURÍA GENERALDE LA REPÚBLICA",
+        "docType": "ramo"
+    },
+    {
+        "clave": 18,
+        "valor": "ENERGÍA",
+        "docType": "ramo"
+    },
+    {
+        "clave": 19,
+        "valor": "APORTACIONES A SEGURIDAD SOCIAL",
+        "docType": "ramo"
+    },
+    {
+        "clave": 20,
+        "valor": "DESARROLLO SOCIAL",
+        "docType": "ramo"
+    },
+    {
+        "clave": 21,
+        "valor": "TURISMO",
+        "docType": "ramo"
+    },
+    {
+        "clave": 22,
+        "valor": "INSTITUTO NACIONAL ELECTORAL",
+        "docType": "ramo"
+    },
+    {
+        "clave": 23,
+        "valor": "PROVISIONES SALARIALES Y ECONÓMICAS",
+        "docType": "ramo"
+    },
+    {
+        "clave": 24,
+        "valor": "DEUDA PÚBLICA",
+        "docType": "ramo"
+    },
+    {
+        "clave": 25,
+        "valor": "PREVISIONES  Y  APORTACIONES  PARA  LOS  SISTEMAS  DE  EDUCACIÓN BÁSICA,  NORMAL,  TECNOLÓGICA  Y  DE ADULTOS",
+        "docType": "ramo"
+    },
+    {
+        "clave": 27,
+        "valor": "FUNCIÓN PÚBLICA",
+        "docType": "ramo"
+    },
+    {
+        "clave": 28,
+        "valor": "PARTICIPACIONES A ENTIDADES FEDERATIVAS Y MUNICIPIOS",
+        "docType": "ramo"
+    },
+    {
+        "clave": 29,
+        "valor": "EROGACIONES PARA LAS OPERACIONES Y PROGRAMAS DE SANEAMIENTO FINANCIERO",
+        "docType": "ramo"
+    },
+    {
+        "clave": 30,
+        "valor": "ADEUDOS DE EJERCICIOS FISCALES ANTERIORES",
+        "docType": "ramo"
+    },
+    {
+        "clave": 31,
+        "valor": "TRIBUNALES AGRARIOS",
+        "docType": "ramo"
+    },
+    {
+        "clave": 32,
+        "valor": "TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA",
+        "docType": "ramo"
+    },
+    {
+        "clave": 33,
+        "valor": "APORTACIONES FEDERALES PARA ENTIDADES FEDERATIVAS Y MUNICIPIOS",
+        "docType": "ramo"
+    },
+    {
+        "clave": 34,
+        "valor": "EROGACIONES PARA LOS PROGRAMAS DE APOYO A AHORRADORES Y DEUDORES DE LA BANCA",
+        "docType": "ramo"
+    },
+    {
+        "clave": 35,
+        "valor": "COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS",
+        "docType": "ramo"
+    },
+    {
+        "clave": 37,
+        "valor": "CONSEJERÍA JURÍDICA DEL EJECUTIVO FEDERAL",
+        "docType": "ramo"
+    },
+    {
+        "clave": 38,
+        "valor": "CONSEJO NACIONAL DE CIENCIA Y TECNOLOGÍA",
+        "docType": "ramo"
+    },
+    {
+        "clave": 40,
+        "valor": "CONSEJO NACIONAL DE CIENCIA Y TECNOLOGÍA",
+        "docType": "ramo"
+    },
+    {
+        "clave": 41,
+        "valor": "COMISIÓN FEDERAL DE COMPETENCIA ECONÓMICA",
+        "docType": "ramo"
+    },
+    {
+        "clave": 42,
+        "valor": "INSTITUTO NACIONAL PARA LA EVALUACIÓN DE LA EDUCACIÓN",
+        "docType": "ramo"
+    },
+    {
+        "clave": 43,
+        "valor": "INSTITUTO FEDERAL DE TELECOMUNICACIONES",
+        "docType": "ramo"
+    },
+    {
+        "clave": 44,
+        "valor": "INSTITUTO NACIONAL DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES",
+        "docType": "ramo"
+    },
+    {
+        "clave": 45,
+        "valor": "COMISIÓN REGULADORA DE ENERGÍA",
+        "docType": "ramo"
+    },
+    {
+        "clave": 46,
+        "valor": "COMISIÓN NACIONAL DE HIDROCARBUROS",
+        "docType": "ramo"
+    },
+    {
+        "clave": 47,
+        "valor": "ENTIDADES NO SECTORIZADAS",
+        "docType": "ramo"
+    },
+    {
+        "clave": 48,
+        "valor": "CULTURA",
+        "docType": "ramo"
+    },
+    {
+        "clave": 50,
+        "valor": "INSTITUTO MEXICANO DEL SEGURO SOCIAL",
+        "docType": "ramo"
+    },
+    {
+        "clave": 51,
+        "valor": "INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO",
+        "docType": "ramo"
+    },
+    {
+        "clave": 52,
+        "valor": "PETRÓLEOS MEXICANOS",
+        "docType": "ramo"
+    },
+    {
+        "clave": 53,
+        "valor": "COMISIÓN FEDERAL DE ELECTRICIDAD",
+        "docType": "ramo"
+    }
+]

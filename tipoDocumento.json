@@ -1,0 +1,22 @@
+﻿[
+    {
+        "clave": "RESOLUCION",
+        "valor": "RESOLUCION",
+        "docType": "tipoDocumento"
+    },
+    {
+        "clave": "CONSTANCIA_SANCION",
+        "valor": "CONSTANCIA_SANCION",
+        "docType": "tipoDocumento"
+    },
+    {
+        "clave": "CONSTANCIA_INHABILITACION",
+        "valor": "CONSTANCIA_INHABILITACION",
+        "docType": "tipoDocumento"
+    },
+    {
+        "clave": "CONSTANCIA_ABSTENCION",
+        "valor": "CONSTANCIA_ABSTENCION",
+        "docType": "tipoDocumento"
+    }
+]

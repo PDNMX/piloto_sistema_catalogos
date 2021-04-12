@@ -1,0 +1,27 @@
+[
+    {
+        "clave": 1,
+        "valor": "CONTRATACIONES PÚBLICAS",
+        "docType": "tipoProcedimiento"
+    },
+    {
+        "clave": 2,
+        "valor": "CONCESIONES, LICENCIAS, PERMISOS, AUTORIZACIONES Y PRÓRROGAS",
+        "docType": "tipoProcedimiento"
+    },
+    {
+        "clave": 3,
+        "valor": "ENAJENACIÓN DE BIENES MUEBLES",
+        "docType": "tipoProcedimiento"
+    },
+    {
+        "clave": 4,
+        "valor": "ASIGNACIÓN Y EMISION DE DICTAMENES DE AVALÚOS NACIONALES",
+        "docType": "tipoProcedimiento"
+    },
+    {
+        "clave": 5,
+        "valor": "OTRO",
+        "docType": "tipoProcedimiento"
+    }
+]

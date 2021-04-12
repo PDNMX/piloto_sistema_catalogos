@@ -1,0 +1,17 @@
+[
+    {
+        "clave": "A",
+        "valor": "ATENCIÓN",
+        "docType": "nivelResponsabilidad"
+    },
+    {
+        "clave": "T",
+        "valor": "TRAMITACIÓN",
+        "docType": "nivelResponsabilidad"
+    },
+    {
+        "clave": "R",
+        "valor": "RESOLUCIÓN",
+        "docType": "nivelResponsabilidad"
+    }
+]

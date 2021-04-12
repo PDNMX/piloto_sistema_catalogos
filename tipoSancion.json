@@ -1,0 +1,37 @@
+﻿[
+    {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "docType": "tipoSancion"
+    },
+    {
+        "clave": "M",
+        "valor": "MULTADO",
+        "docType": "tipoSancion"
+    },
+    {
+        "clave": "S",
+        "valor": "SUSPENSIÓN DEL EMPLEO, CARGO O COMISIÓN",
+        "docType": "tipoSancion"
+    },
+    {
+        "clave": "D",
+        "valor": "DESTITUCIÓN DEL EMPLEO, CARGO O COMISIÓN",
+        "docType": "tipoSancion"
+    },
+    {
+        "clave": "IRSC",
+        "valor": "INDEMNIZACIÓN RESARCITORIA",
+        "docType": "tipoSancion"
+    },
+    {
+        "clave": "SE",
+        "valor": "SANCIÓN ECONÓMICA",
+        "docType": "tipoSancion"
+    },
+    {
+        "clave": "O",
+        "valor": "OTRO",
+        "docType": "tipoSancion"
+    }
+]

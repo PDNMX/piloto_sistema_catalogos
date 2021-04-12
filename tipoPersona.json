@@ -1,0 +1,12 @@
+﻿[
+    {
+        "clave": "F",
+        "valor": "FÍSICA",
+        "docType": "tipoPersona"
+    },
+    {
+        "clave": "M",
+        "valor": "MORAL",
+        "docType": "tipoPersona"
+    }
+]

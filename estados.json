@@ -1,0 +1,162 @@
+﻿[
+    {
+        "clave": "01",
+        "valor": "Aguascalientes",
+        "docType": "estado"
+    },
+    {
+        "clave": "02",
+        "valor": "Baja California",
+        "docType": "estado"
+    },
+    {
+        "clave": "03",
+        "valor": "Baja California Sur",
+        "docType": "estado"
+    },
+    {
+        "clave": "04",
+        "valor": "Campeche",
+        "docType": "estado"
+    },
+    {
+        "clave": "05",
+        "valor": "Coahuila de Zaragoza",
+        "docType": "estado"
+    },
+    {
+        "clave": "06",
+        "valor": "Colima",
+        "docType": "estado"
+    },
+    {
+        "clave": "07",
+        "valor": "Chiapas",
+        "docType": "estado"
+    },
+    {
+        "clave": "08",
+        "valor": "Chihuahua",
+        "docType": "estado"
+    },
+    {
+        "clave": "09",
+        "valor": "Ciudad de México",
+        "docType": "estado"
+    },
+    {
+        "clave": "10",
+        "valor": "Durango",
+        "docType": "estado"
+    },
+    {
+        "clave": "11",
+        "valor": "Guanajuato",
+        "docType": "estado"
+    },
+    {
+        "clave": "12",
+        "valor": "Guerrero",
+        "docType": "estado"
+    },
+    {
+        "clave": "13",
+        "valor": "Hidalgo",
+        "docType": "estado"
+    },
+    {
+        "clave": "14",
+        "valor": "Jalisco",
+        "docType": "estado"
+    },
+    {
+        "clave": "15",
+        "valor": "México",
+        "docType": "estado"
+    },
+    {
+        "clave": "16",
+        "valor": "Michoacán de Ocampo",
+        "docType": "estado"
+    },
+    {
+        "clave": "17",
+        "valor": "Morelos",
+        "docType": "estado"
+    },
+    {
+        "clave": "18",
+        "valor": "Nayarit",
+        "docType": "estado"
+    },
+    {
+        "clave": "19",
+        "valor": "Nuevo León",
+        "docType": "estado"
+    },
+    {
+        "clave": "20",
+        "valor": "Oaxaca",
+        "docType": "estado"
+    },
+    {
+        "clave": "21",
+        "valor": "Puebla",
+        "docType": "estado"
+    },
+    {
+        "clave": "22",
+        "valor": "Querétaro",
+        "docType": "estado"
+    },
+    {
+        "clave": "23",
+        "valor": "Quintana Roo",
+        "docType": "estado"
+    },
+    {
+        "clave": "24",
+        "valor": "San Luis Potosí",
+        "docType": "estado"
+    },
+    {
+        "clave": "25",
+        "valor": "Sinaloa",
+        "docType": "estado"
+    },
+    {
+        "clave": "26",
+        "valor": "Sonora",
+        "docType": "estado"
+    },
+    {
+        "clave": "27",
+        "valor": "Tabasco",
+        "docType": "estado"
+    },
+    {
+        "clave": "28",
+        "valor": "Tamaulipas",
+        "docType": "estado"
+    },
+    {
+        "clave": "29",
+        "valor": "Tlaxcala",
+        "docType": "estado"
+    },
+    {
+        "clave": "30",
+        "valor": "Veracruz de Ignacio de la Llave",
+        "docType": "estado"
+    },
+    {
+        "clave": "31",
+        "valor": "Yucatán",
+        "docType": "estado"
+    },
+    {
+        "clave": "32",
+        "valor": "Zacatecas",
+        "docType": "estado"
+    }
+]

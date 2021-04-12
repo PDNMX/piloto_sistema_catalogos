@@ -1,0 +1,132 @@
+﻿[
+    {
+        "clave": "NAD",
+        "valor": "NEGLIGENCIA ADMINISTRATIVA",
+        "docType": "tipoFalta"
+    },
+    {
+        "clave": "VPC",
+        "valor": "VIOLACION PROCEDIMIENTOS DE CONTRATACION",
+        "docType": "tipoFalta"
+    },
+    {
+        "clave": "VLNP",
+        "valor": "VIOLACION LEYES Y NORMATIVIDAD PRESUPUESTAL",
+        "docType": "tipoFalta"
+    },
+    {
+        "clave": "AUT",
+        "valor": "ABUSO DE AUTORIDAD",
+        "docType": "tipoFalta"
+    },
+    {
+        "clave": "CEX",
+        "valor": "COHECHO O EXTORSION",
+        "docType": "tipoFalta"
+    },
+    {
+        "clave": "IDSP",
+        "valor": "INCUMPLIMIENTO EN DECLARACION DE SITUACION PATRIMONIAL",
+        "docType": "tipoFalta"
+    },
+    {
+        "clave": "DCSP",
+        "valor": "DELITO COMETIDO POR SERVIDORES PUBLICOS",
+        "docType": "tipoFalta"
+    },
+    {
+        "clave": "EIFM",
+        "valor": "EJERCICIO INDEBIDO DE SUS FUNCIONES EN MATERIA MIGRATORIA",
+        "docType": "tipoFalta"
+    },
+    {
+        "clave": "VDH",
+        "valor": "VIOLACIÓN A LOS DERECHOS HUMANOS",
+        "docType": "tipoFalta"
+    },
+    {
+        "clave": "AG",
+        "valor": "ADMINISTRATIVA GRAVE",
+        "docType": "tipoFalta"
+    },
+    {
+        "clave": "ANG",
+        "valor": "ADMINISTRATIVA NO GRAVE",
+        "docType": "tipoFalta"
+    },
+    {
+        "clave": "AC",
+        "valor": "ACTO DE CORRUPCIÓN",
+        "docType": "tipoFalta"
+    },
+    {
+        "clave": "HSEX",
+        "valor": "COMETER O TOLERAR CONDUCTAS DE HOSTIGAMIENTO SEXUAL",
+        "docType": "tipoFalta"
+    },
+    {
+        "clave": "ASEX",
+        "valor": "COMETER O TOLERAR CONDUCTAS DE ACOSO SEXUAL",
+        "docType": "tipoFalta"
+    },
+    {
+        "clave": "PEC",
+        "valor": "PECULADO",
+        "docType": "tipoFalta"
+    },
+    {
+        "clave": "DRP",
+        "valor": "DESVÍO DE RECURSOS PÚBLICOS",
+        "docType": "tipoFalta"
+    },
+    {
+        "clave": "UII",
+        "valor": "UTILIZACIÓN INDEBIDA DE INFORMACIÓN",
+        "docType": "tipoFalta"
+    },
+    {
+        "clave": "AFN",
+        "valor": "ABUSO DE FUNCIONES",
+        "docType": "tipoFalta"
+    },
+    {
+        "clave": "ABCI",
+        "valor": "ACTUACIÓN BAJO CONFLICTO DE INTERÉS",
+        "docType": "tipoFalta"
+    },
+    {
+        "clave": "CIND",
+        "valor": "CONTRATACIÓN INDEBIDA",
+        "docType": "tipoFalta"
+    },
+    {
+        "clave": "EOCI",
+        "valor": "ENRIQUECIMIENTO OCULTO U OCULTAMIENTO DE CONFLICTO DE INTERÉS",
+        "docType": "tipoFalta"
+    },
+    {
+        "clave": "TINF",
+        "valor": "TRÁFICO DE INFLUENCIAS",
+        "docType": "tipoFalta"
+    },
+    {
+        "clave": "ENCB",
+        "valor": "ENCUBRIMIENTO",
+        "docType": "tipoFalta"
+    },
+    {
+        "clave": "DSCT",
+        "valor": "DESACATO",
+        "docType": "tipoFalta"
+    },
+    {
+        "clave": "OJUST",
+        "valor": "OBSTRUCCIÓN DE LA JUSTICIA",
+        "docType": "tipoFalta"
+    },
+    {
+        "clave": "OTRO",
+        "valor": "OTRO",
+        "docType": "tipoFalta"
+    }
+]

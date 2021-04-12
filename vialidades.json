@@ -1,0 +1,112 @@
+﻿[
+        {
+                "clave": "AMPLIACIÓN",
+                "valor": "AMPLIACIÓN",
+                "docType": "vialidad"
+        },
+        {
+                "clave": "ANDADOR",
+                "valor": "ANDADOR",
+                "docType": "vialidad"
+        },
+        {
+                "clave": "AVENIDA",
+                "valor": "AVENIDA",
+                "docType": "vialidad"
+        },
+        {
+                "clave": "BOULEVARD",
+                "valor": "BOULEVARD",
+                "docType": "vialidad"
+        },
+        {
+                "clave": "CALLE",
+                "valor": "CALLE",
+                "docType": "vialidad"
+        },
+        {
+                "clave": "CALLEJÓN",
+                "valor": "CALLEJÓN",
+                "docType": "vialidad"
+        },
+        {
+                "clave": "CALZADA",
+                "valor": "CALZADA",
+                "docType": "vialidad"
+        },
+        {
+                "clave": "CERRADA",
+                "valor": "CERRADA",
+                "docType": "vialidad"
+        },
+        {
+                "clave": "CIRCUITO",
+                "valor": "CIRCUITO",
+                "docType": "vialidad"
+        },
+        {
+                "clave": "CIRCUNVALACIÓN",
+                "valor": "CIRCUNVALACIÓN",
+                "docType": "vialidad"
+        },
+        {
+                "clave": "CONTINUACIÓN",
+                "valor": "CONTINUACIÓN",
+                "docType": "vialidad"
+        },
+        {
+                "clave": "CORREDOR",
+                "valor": "CORREDOR",
+                "docType": "vialidad"
+        },
+        {
+                "clave": "DIAGONAL",
+                "valor": "DIAGONAL",
+                "docType": "vialidad"
+        },
+        {
+                "clave": "EJE VIAL",
+                "valor": "EJE VIAL",
+                "docType": "vialidad"
+        },
+        {
+                "clave": "PASAJE",
+                "valor": "PASAJE",
+                "docType": "vialidad"
+        },
+        {
+                "clave": "PEATONAL",
+                "valor": "PEATONAL",
+                "docType": "vialidad"
+        },
+        {
+                "clave": "PERIFÉRICO",
+                "valor": "PERIFÉRICO",
+                "docType": "vialidad"
+        },
+        {
+                "clave": "PRIVADA",
+                "valor": "PRIVADA",
+                "docType": "vialidad"
+        },
+        {
+                "clave": "PROLONGACIÓN",
+                "valor": "PROLONGACIÓN",
+                "docType": "vialidad"
+        },
+        {
+                "clave": "RETORNO",
+                "valor": "RETORNO",
+                "docType": "vialidad"
+        },
+        {
+                "clave": "VIADUCTO",
+                "valor": "VIADUCTO",
+                "docType": "vialidad"
+        },
+        {
+                "clave": "NINGUNO",
+                "valor": "NINGUNO",
+                "docType": "vialidad"
+        }
+]

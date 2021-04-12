@@ -1,0 +1,17 @@
+[
+    {
+        "clave": "M",
+        "valor": "MASCULINO",
+        "docType": "genero"
+    },
+    {
+        "clave": "F",
+        "valor": "FEMENINO",
+        "docType": "genero"
+    },
+    {
+        "clave": "O",
+        "valor": "OTRO",
+        "docType": "genero"
+    }
+]

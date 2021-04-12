@@ -1,0 +1,877 @@
+﻿[
+    {
+        "clave": "MXN",
+        "valor": "PESO MEXICANO",
+        "docType": "moneda"
+    },
+    {
+        "clave": "AED",
+        "valor": "DÍRHAM DE LOS EMIRATOS ÁRABES UNIDOS",
+        "docType": "moneda"
+    },
+    {
+        "clave": "AFN",
+        "valor": "AFGANI",
+        "docType": "moneda"
+    },
+    {
+        "clave": "ALL",
+        "valor": "LEK",
+        "docType": "moneda"
+    },
+    {
+        "clave": "AMD",
+        "valor": "DRAM ARMENIO",
+        "docType": "moneda"
+    },
+    {
+        "clave": "ANG",
+        "valor": "FLORÍN ANTILLANO NEERLANDÉS",
+        "docType": "moneda"
+    },
+    {
+        "clave": "AOA",
+        "valor": "KWANZA",
+        "docType": "moneda"
+    },
+    {
+        "clave": "ARS",
+        "valor": "PESO ARGENTINO",
+        "docType": "moneda"
+    },
+    {
+        "clave": "AUD",
+        "valor": "DÓLAR AUSTRALIANO",
+        "docType": "moneda"
+    },
+    {
+        "clave": "AWG",
+        "valor": "FLORÍN ARUBEÑO",
+        "docType": "moneda"
+    },
+    {
+        "clave": "AZN",
+        "valor": "MANAT AZERBAIYANO",
+        "docType": "moneda"
+    },
+    {
+        "clave": "BAM",
+        "valor": "MARCO CONVERTIBLE",
+        "docType": "moneda"
+    },
+    {
+        "clave": "BBD",
+        "valor": "DÓLAR BARBADENSE",
+        "docType": "moneda"
+    },
+    {
+        "clave": "BDT",
+        "valor": "TAKA",
+        "docType": "moneda"
+    },
+    {
+        "clave": "BGN",
+        "valor": "LEV BÚLGARO",
+        "docType": "moneda"
+    },
+    {
+        "clave": "BHD",
+        "valor": "DINAR BAREINÍ",
+        "docType": "moneda"
+    },
+    {
+        "clave": "BIF",
+        "valor": "FRANCO DE BURUNDI",
+        "docType": "moneda"
+    },
+    {
+        "clave": "BMD",
+        "valor": "DÓLAR BERMUDEÑO",
+        "docType": "moneda"
+    },
+    {
+        "clave": "BND",
+        "valor": "DÓLAR DE BRUNÉI",
+        "docType": "moneda"
+    },
+    {
+        "clave": "BOB",
+        "valor": "BOLIVIANO",
+        "docType": "moneda"
+    },
+    {
+        "clave": "BOV",
+        "valor": "MVDOL",
+        "docType": "moneda"
+    },
+    {
+        "clave": "BRL",
+        "valor": "REAL BRASILEÑO",
+        "docType": "moneda"
+    },
+    {
+        "clave": "BSD",
+        "valor": "DÓLAR BAHAMEÑO",
+        "docType": "moneda"
+    },
+    {
+        "clave": "BTN",
+        "valor": "NGULTRUM",
+        "docType": "moneda"
+    },
+    {
+        "clave": "BWP",
+        "valor": "PULA",
+        "docType": "moneda"
+    },
+    {
+        "clave": "BYN",
+        "valor": "RUBLO BIELORRUSO",
+        "docType": "moneda"
+    },
+    {
+        "clave": "BZD",
+        "valor": "DÓLAR BELICEÑO",
+        "docType": "moneda"
+    },
+    {
+        "clave": "CAD",
+        "valor": "DÓLAR CANADIENSE",
+        "docType": "moneda"
+    },
+    {
+        "clave": "CDF",
+        "valor": "FRANCO CONGOLEÑO",
+        "docType": "moneda"
+    },
+    {
+        "clave": "CHE",
+        "valor": "EURO WIR",
+        "docType": "moneda"
+    },
+    {
+        "clave": "CHF",
+        "valor": "FRANCO SUIZO",
+        "docType": "moneda"
+    },
+    {
+        "clave": "CHW",
+        "valor": "FRANCO WIR",
+        "docType": "moneda"
+    },
+    {
+        "clave": "CLF",
+        "valor": "UNIDAD DE FOMENTO",
+        "docType": "moneda"
+    },
+    {
+        "clave": "CLP",
+        "valor": "PESO CHILENO",
+        "docType": "moneda"
+    },
+    {
+        "clave": "CNY",
+        "valor": "YUAN CHINO",
+        "docType": "moneda"
+    },
+    {
+        "clave": "COP",
+        "valor": "PESO COLOMBIANO",
+        "docType": "moneda"
+    },
+    {
+        "clave": "COU",
+        "valor": "UNIDAD DE VALOR REAL",
+        "docType": "moneda"
+    },
+    {
+        "clave": "CRC",
+        "valor": "COLÓN COSTARRICENSE",
+        "docType": "moneda"
+    },
+    {
+        "clave": "CUC",
+        "valor": "PESO CONVERTIBLE",
+        "docType": "moneda"
+    },
+    {
+        "clave": "CUP",
+        "valor": "PESO CUBANO",
+        "docType": "moneda"
+    },
+    {
+        "clave": "CVE",
+        "valor": "ESCUDO CABOVERDIANO",
+        "docType": "moneda"
+    },
+    {
+        "clave": "CZK",
+        "valor": "CORONA CHECA",
+        "docType": "moneda"
+    },
+    {
+        "clave": "DJF",
+        "valor": "FRANCO YIBUTIANO",
+        "docType": "moneda"
+    },
+    {
+        "clave": "DKK",
+        "valor": "CORONA DANESA",
+        "docType": "moneda"
+    },
+    {
+        "clave": "DOP",
+        "valor": "PESO DOMINICANO",
+        "docType": "moneda"
+    },
+    {
+        "clave": "DZD",
+        "valor": "DINAR ARGELINO",
+        "docType": "moneda"
+    },
+    {
+        "clave": "EGP",
+        "valor": "LIBRA EGIPCIA",
+        "docType": "moneda"
+    },
+    {
+        "clave": "ERN",
+        "valor": "NAKFA",
+        "docType": "moneda"
+    },
+    {
+        "clave": "ETB",
+        "valor": "BIRR ETÍOPE",
+        "docType": "moneda"
+    },
+    {
+        "clave": "EUR",
+        "valor": "EURO",
+        "docType": "moneda"
+    },
+    {
+        "clave": "FJD",
+        "valor": "DÓLAR FIYIANO",
+        "docType": "moneda"
+    },
+    {
+        "clave": "FKP",
+        "valor": "LIBRA MALVINENSE",
+        "docType": "moneda"
+    },
+    {
+        "clave": "GBP",
+        "valor": "LIBRA ESTERLINA",
+        "docType": "moneda"
+    },
+    {
+        "clave": "GEL",
+        "valor": "LARI",
+        "docType": "moneda"
+    },
+    {
+        "clave": "GHS",
+        "valor": "CEDI GHANÉS",
+        "docType": "moneda"
+    },
+    {
+        "clave": "GIP",
+        "valor": "LIBRA DE GIBRALTAR",
+        "docType": "moneda"
+    },
+    {
+        "clave": "GMD",
+        "valor": "DALASI",
+        "docType": "moneda"
+    },
+    {
+        "clave": "GNF",
+        "valor": "FRANCO GUINEANO",
+        "docType": "moneda"
+    },
+    {
+        "clave": "GTQ",
+        "valor": "QUETZAL",
+        "docType": "moneda"
+    },
+    {
+        "clave": "GYD",
+        "valor": "DÓLAR GUYANÉS",
+        "docType": "moneda"
+    },
+    {
+        "clave": "HKD",
+        "valor": "DÓLAR DE HONG KONG",
+        "docType": "moneda"
+    },
+    {
+        "clave": "HNL",
+        "valor": "LEMPIRA",
+        "docType": "moneda"
+    },
+    {
+        "clave": "HRK",
+        "valor": "KUNA",
+        "docType": "moneda"
+    },
+    {
+        "clave": "HTG",
+        "valor": "GOURDE",
+        "docType": "moneda"
+    },
+    {
+        "clave": "HUF",
+        "valor": "FORINTO",
+        "docType": "moneda"
+    },
+    {
+        "clave": "IDR",
+        "valor": "RUPIA INDONESIA",
+        "docType": "moneda"
+    },
+    {
+        "clave": "ILS",
+        "valor": "NUEVO SÉQUEL ISRAELÍ",
+        "docType": "moneda"
+    },
+    {
+        "clave": "INR",
+        "valor": "RUPIA INDIA",
+        "docType": "moneda"
+    },
+    {
+        "clave": "IQD",
+        "valor": "DINAR IRAQUÍ",
+        "docType": "moneda"
+    },
+    {
+        "clave": "IRR",
+        "valor": "RIAL IRANÍ",
+        "docType": "moneda"
+    },
+    {
+        "clave": "ISK",
+        "valor": "CORONA ISLANDESA",
+        "docType": "moneda"
+    },
+    {
+        "clave": "JMD",
+        "valor": "DÓLAR JAMAIQUINO",
+        "docType": "moneda"
+    },
+    {
+        "clave": "JOD",
+        "valor": "DINAR JORDANo",
+        "docType": "moneda"
+    },
+    {
+        "clave": "JPY",
+        "valor": "YEN",
+        "docType": "moneda"
+    },
+    {
+        "clave": "KES",
+        "valor": "CHELÍN KENIANO",
+        "docType": "moneda"
+    },
+    {
+        "clave": "KGS",
+        "valor": "SOM",
+        "docType": "moneda"
+    },
+    {
+        "clave": "KHR",
+        "valor": "RIEL",
+        "docType": "moneda"
+    },
+    {
+        "clave": "KMF",
+        "valor": "FRANCO COMORENSE",
+        "docType": "moneda"
+    },
+    {
+        "clave": "KPW",
+        "valor": "WON NORCOREANO",
+        "docType": "moneda"
+    },
+    {
+        "clave": "KRW",
+        "valor": "WON",
+        "docType": "moneda"
+    },
+    {
+        "clave": "KWD",
+        "valor": "DINAR KUWAITÍ",
+        "docType": "moneda"
+    },
+    {
+        "clave": "KYD",
+        "valor": "DÓLAR DE LAS ISLAS CAIMÁN",
+        "docType": "moneda"
+    },
+    {
+        "clave": "KZT",
+        "valor": "TENGE",
+        "docType": "moneda"
+    },
+    {
+        "clave": "LAK",
+        "valor": "KIP",
+        "docType": "moneda"
+    },
+    {
+        "clave": "LBP",
+        "valor": "LIBRA LIBANESA",
+        "docType": "moneda"
+    },
+    {
+        "clave": "LKR",
+        "valor": "RUPIA DE SRI LANKA",
+        "docType": "moneda"
+    },
+    {
+        "clave": "LRD",
+        "valor": "DÓLAR LIBERIANO",
+        "docType": "moneda"
+    },
+    {
+        "clave": "LSL",
+        "valor": "LOTI",
+        "docType": "moneda"
+    },
+    {
+        "clave": "LYD",
+        "valor": "DINAR LIBIO",
+        "docType": "moneda"
+    },
+    {
+        "clave": "MAD",
+        "valor": "DÍRHAM MARROQUÍ",
+        "docType": "moneda"
+    },
+    {
+        "clave": "MDL",
+        "valor": "LEU MOLDAVO",
+        "docType": "moneda"
+    },
+    {
+        "clave": "MGA",
+        "valor": "ARIARY MALGACHE",
+        "docType": "moneda"
+    },
+    {
+        "clave": "MKD",
+        "valor": "DENAR",
+        "docType": "moneda"
+    },
+    {
+        "clave": "MMK",
+        "valor": "KYAT",
+        "docType": "moneda"
+    },
+    {
+        "clave": "MNT",
+        "valor": "TUGRIK",
+        "docType": "moneda"
+    },
+    {
+        "clave": "MOP",
+        "valor": "PATACA",
+        "docType": "moneda"
+    },
+    {
+        "clave": "MRU",
+        "valor": "UGUIYA",
+        "docType": "moneda"
+    },
+    {
+        "clave": "MUR",
+        "valor": "RUPIA DE MAURICIO",
+        "docType": "moneda"
+    },
+    {
+        "clave": "MVR",
+        "valor": "RUFIYAA",
+        "docType": "moneda"
+    },
+    {
+        "clave": "MWK",
+        "valor": "KWACHA",
+        "docType": "moneda"
+    },
+    {
+        "clave": "MXV",
+        "valor": "UNIDAD DE INVERSIÓN (UDI) MEXICANA",
+        "docType": "moneda"
+    },
+    {
+        "clave": "MYR",
+        "valor": "RINGGIT MALAYO",
+        "docType": "moneda"
+    },
+    {
+        "clave": "MZN",
+        "valor": "METICAL MOZAMBIQUEÑO",
+        "docType": "moneda"
+    },
+    {
+        "clave": "NAD",
+        "valor": "DÓLAR NAMIBIO",
+        "docType": "moneda"
+    },
+    {
+        "clave": "NGN",
+        "valor": "NAIRA",
+        "docType": "moneda"
+    },
+    {
+        "clave": "NIO",
+        "valor": "CÓRDOBA",
+        "docType": "moneda"
+    },
+    {
+        "clave": "NOK",
+        "valor": "CORONA NORUEGA",
+        "docType": "moneda"
+    },
+    {
+        "clave": "NPR",
+        "valor": "RUPIA NEPALÍ",
+        "docType": "moneda"
+    },
+    {
+        "clave": "NZD",
+        "valor": "DÓLAR NEOZELANDÉS",
+        "docType": "moneda"
+    },
+    {
+        "clave": "OMR",
+        "valor": "RIAL OMANÍ",
+        "docType": "moneda"
+    },
+    {
+        "clave": "PAB",
+        "valor": "BALBOA",
+        "docType": "moneda"
+    },
+    {
+        "clave": "PEN",
+        "valor": "SOL",
+        "docType": "moneda"
+    },
+    {
+        "clave": "PGK",
+        "valor": "KINA",
+        "docType": "moneda"
+    },
+    {
+        "clave": "PHP",
+        "valor": "PESO FILIPINO",
+        "docType": "moneda"
+    },
+    {
+        "clave": "PKR",
+        "valor": "RUPIA PAKISTANÍ",
+        "docType": "moneda"
+    },
+    {
+        "clave": "PLN",
+        "valor": "ZŁOTY",
+        "docType": "moneda"
+    },
+    {
+        "clave": "PYG",
+        "valor": "GUARANÍ",
+        "docType": "moneda"
+    },
+    {
+        "clave": "QAR",
+        "valor": "RIAL CATARÍ",
+        "docType": "moneda"
+    },
+    {
+        "clave": "RON",
+        "valor": "LEU RUMANO",
+        "docType": "moneda"
+    },
+    {
+        "clave": "RSD",
+        "valor": "DINAR SERBIO",
+        "docType": "moneda"
+    },
+    {
+        "clave": "RUB",
+        "valor": "RUBLO RUSO",
+        "docType": "moneda"
+    },
+    {
+        "clave": "RWF",
+        "valor": "FRANCO RUANDÉS",
+        "docType": "moneda"
+    },
+    {
+        "clave": "SAR",
+        "valor": "RIAL SAUDÍ",
+        "docType": "moneda"
+    },
+    {
+        "clave": "SBD",
+        "valor": "DÓLAR DE LAS ISLAS SALOMÓN",
+        "docType": "moneda"
+    },
+    {
+        "clave": "SCR",
+        "valor": "RUPIA SEYCHELENSE",
+        "docType": "moneda"
+    },
+    {
+        "clave": "SDG",
+        "valor": "LIBRA SUDANESA",
+        "docType": "moneda"
+    },
+    {
+        "clave": "SEK",
+        "valor": "CORONA SUECA",
+        "docType": "moneda"
+    },
+    {
+        "clave": "SGD",
+        "valor": "DÓLAR DE SINGAPUR",
+        "docType": "moneda"
+    },
+    {
+        "clave": "SHP",
+        "valor": "LIBRA DE SANTA ELENA",
+        "docType": "moneda"
+    },
+    {
+        "clave": "SLL",
+        "valor": "LEONE",
+        "docType": "moneda"
+    },
+    {
+        "clave": "SOS",
+        "valor": "CHELÍN SOMALÍ",
+        "docType": "moneda"
+    },
+    {
+        "clave": "SRD",
+        "valor": "DÓLAR SURINAMÉS",
+        "docType": "moneda"
+    },
+    {
+        "clave": "SSP",
+        "valor": "LIBRA SURSUDANESA",
+        "docType": "moneda"
+    },
+    {
+        "clave": "STN",
+        "valor": "DOBRA",
+        "docType": "moneda"
+    },
+    {
+        "clave": "SVC",
+        "valor": "COLÓN SALVADOREÑO",
+        "docType": "moneda"
+    },
+    {
+        "clave": "SYP",
+        "valor": "LIBRA SIRIA",
+        "docType": "moneda"
+    },
+    {
+        "clave": "SZL",
+        "valor": "LILANGENI",
+        "docType": "moneda"
+    },
+    {
+        "clave": "THB",
+        "valor": "BAHT",
+        "docType": "moneda"
+    },
+    {
+        "clave": "TJS",
+        "valor": "SOMONI TAYIKO",
+        "docType": "moneda"
+    },
+    {
+        "clave": "TMT",
+        "valor": "MANAT TURCOMANO",
+        "docType": "moneda"
+    },
+    {
+        "clave": "TND",
+        "valor": "DINAR TUNECINO",
+        "docType": "moneda"
+    },
+    {
+        "clave": "TOP",
+        "valor": "PAʻANGA",
+        "docType": "moneda"
+    },
+    {
+        "clave": "TRY",
+        "valor": "LIRA TURCA",
+        "docType": "moneda"
+    },
+    {
+        "clave": "TTD",
+        "valor": "DÓLAR DE TRINIDAD Y TOBAGO",
+        "docType": "moneda"
+    },
+    {
+        "clave": "TWD",
+        "valor": "NUEVO DÓLAR TAIWANÉS",
+        "docType": "moneda"
+    },
+    {
+        "clave": "TZS",
+        "valor": "CHELÍN TANZANO",
+        "docType": "moneda"
+    },
+    {
+        "clave": "UAH",
+        "valor": "GRIVNA",
+        "docType": "moneda"
+    },
+    {
+        "clave": "UGX",
+        "valor": "CHELÍN UGANDÉS",
+        "docType": "moneda"
+    },
+    {
+        "clave": "USD",
+        "valor": "DÓLAR ESTADOUNIDENSE",
+        "docType": "moneda"
+    },
+    {
+        "clave": "USN",
+        "valor": "DÓLAR ESTADOUNIDENSE (SIGUIENTE DÍA)",
+        "docType": "moneda"
+    },
+    {
+        "clave": "UYI",
+        "valor": "PESO EN UNIDADES INDEXADAS (URUGUAY)",
+        "docType": "moneda"
+    },
+    {
+        "clave": "UYU",
+        "valor": "PESO URUGUAYO",
+        "docType": "moneda"
+    },
+    {
+        "clave": "UYW",
+        "valor": "UNIDAD PREVISIONAL",
+        "docType": "moneda"
+    },
+    {
+        "clave": "UZS",
+        "valor": "SOM UZBEKO",
+        "docType": "moneda"
+    },
+    {
+        "clave": "VES7​",
+        "valor": "BOLÍVAR SOBERANO",
+        "docType": "moneda"
+    },
+    {
+        "clave": "VND",
+        "valor": "DONG VIETNAMITA",
+        "docType": "moneda"
+    },
+    {
+        "clave": "VUV",
+        "valor": "VATU",
+        "docType": "moneda"
+    },
+    {
+        "clave": "WST",
+        "valor": "TALA",
+        "docType": "moneda"
+    },
+    {
+        "clave": "XAF",
+        "valor": "FRANCO CFA DE ÁFRICA CENTRAL",
+        "docType": "moneda"
+    },
+    {
+        "clave": "XAG",
+        "valor": "PLATA (DENOMINADO EN ONZA TROY)",
+        "docType": "moneda"
+    },
+    {
+        "clave": "XAU",
+        "valor": "ORO (DENOMINADO EN ONZA TROY)",
+        "docType": "moneda"
+    },
+    {
+        "clave": "XCD",
+        "valor": "DÓLAR DEL CARIBE ORIENTAL",
+        "docType": "moneda"
+    },
+    {
+        "clave": "XDR",
+        "valor": "DERECHOS ESPECIALES DE GIRO",
+        "docType": "moneda"
+    },
+    {
+        "clave": "XOF",
+        "valor": "FRANCO CFA DE ÁFRICA OCCIDENTAL",
+        "docType": "moneda"
+    },
+    {
+        "clave": "XPD",
+        "valor": "PALADIO (DENOMINADO EN ONZA TROY)",
+        "docType": "moneda"
+    },
+    {
+        "clave": "XPF",
+        "valor": "FRANCO CFP",
+        "docType": "moneda"
+    },
+    {
+        "clave": "XPT",
+        "valor": "PLATINO (DENOMINADO EN ONZA TROY)",
+        "docType": "moneda"
+    },
+    {
+        "clave": "XSU",
+        "valor": "SUCRE",
+        "docType": "moneda"
+    },
+    {
+        "clave": "XTS",
+        "valor": "RESERVADO PARA PRUEBAS",
+        "docType": "moneda"
+    },
+    {
+        "clave": "XUA",
+        "valor": "UNIDAD DE CUENTA BAD",
+        "docType": "moneda"
+    },
+    {
+        "clave": "XXX",
+        "valor": "SIN DIVISA",
+        "docType": "moneda"
+    },
+    {
+        "clave": "YER",
+        "valor": "RIAL YEMENÍ",
+        "docType": "moneda"
+    },
+    {
+        "clave": "ZAR",
+        "valor": "RAND",
+        "docType": "moneda"
+    },
+    {
+        "clave": "ZMW",
+        "valor": "KWACHA ZAMBIANO",
+        "docType": "moneda"
+    },
+    {
+        "clave": "ZWL",
+        "valor": "DÓLAR ZIMBABUENSE",
+        "docType": "moneda"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "clave": "RE",
+        "valor": "RESPONSABLE DE LA EJECUCIÓN DE LOS TRABAJOS",
+        "docType": "tipoArea"
+    },
+    {
+        "clave": "RC",
+        "valor": "RESPONSABLE DE LA CONTRATACIÓN",
+        "docType": "tipoArea"
+    },
+    {
+        "clave": "O",
+        "valor": "OTRA",
+        "docType": "tipoArea"
+    },
+    {
+        "clave": "C",
+        "valor": "CONTRATANTE",
+        "docType": "tipoArea"
+    },
+    {
+        "clave": "R",
+        "valor": "REQUIRENTE",
+        "docType": "tipoArea"
+    },
+    {
+        "clave": "T",
+        "valor": "TÉCNICA",
+        "docType": "tipoArea"
+    }
+]
