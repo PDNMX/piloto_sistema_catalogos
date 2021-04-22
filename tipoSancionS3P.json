@@ -1,0 +1,42 @@
+[
+    {
+        "clave": "I",
+        "valor": "INHABILITADO",
+        "docType": "tipoSancionS3P"
+    },
+    {
+        "clave": "M",
+        "valor": "MULTADO",
+        "docType": "tipoSancionS3P"
+    },
+    {
+        "clave": "S",
+        "valor": "SUSPENSIÓN DE ACTIVIDADES",
+        "docType": "tipoSancionS3P"
+    },
+    {
+        "clave": "D",
+        "valor": "DISOLUCIÓN DE LA SOCIEDAD",
+        "docType": "tipoSancionS3P"
+    },
+    {
+        "clave": "A",
+        "valor": "AMONESTACIÓN",
+        "docType": "tipoSancionS3P"
+    },
+    {
+        "clave": "IND",
+        "valor": "INDEMNIZACIÓN POR LOS DAÑOS Y PERJUICIOS OCASIONADOS A LA HACIENDA PÚBLICA FEDERAL, LOCAL O MUNICIPAL, O AL PATRIMONIO DE LOS ENTES PÚBLICOS.",
+        "docType": "tipoSancionS3P"
+    },
+    {
+        "clave": "SE",
+        "valor": "SANCIÓN ECONÓMICA",
+        "docType": "tipoSancionS3P"
+    },
+    {
+        "clave": "O",
+        "valor": "OTRO",
+        "docType": "tipoSancionS3P"
+    }
+]
