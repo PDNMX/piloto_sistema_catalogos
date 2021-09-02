@@ -13,5 +13,10 @@
         "clave": "R",
         "valor": "RESOLUCIÓN",
         "docType": "nivelResponsabilidad"
+    },
+    {
+        "clave": "O",
+        "valor": "OTRO",
+        "docType": "nivelResponsabilidad"
     }
 ]
